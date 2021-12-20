@@ -1,0 +1,42 @@
+ .title {
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 81%, rgba(9,222,238,1) 97%);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    color: #191970;
+    
+}
+
+.form {
+    margin: 0;
+    padding: 0;
+    border: #00CED1 dotted 1px;
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 81%, rgba(9,222,238,1) 97%);
+
+
+    img {
+        height: 200px;
+        width: 200px;
+        text-align: center;
+    }
+    h3 {
+        text-align: center;
+        color:#004792;
+    }
+    h4{
+        text-align: center;
+        color: #004792;
+    }
+
+    p {
+        text-align: center;
+        margin-left: 80px;
+        margin-right: 80px;
+        font-weight: 500;
+        color: black;
+    }
+
+
+ }
